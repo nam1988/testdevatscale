@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>col_par</col_name_string>
+        <index_col_name element="col_par" name="x_testd_s_parent">fc6a1f14b4400010964fc2aa783c7f64</index_col_name>
+        <logical_table_name>x_testd_s_parent</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2019-09-18 21:41:52</sys_created_on>
+        <sys_id>36dc1b94b4400010964fc2aa783c7f87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_testd_s_parent</sys_name>
+        <sys_package display_value="testd@s" source="x_testd_s">123a9b14b4400010964fc2aa783c7f57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testd@s">123a9b14b4400010964fc2aa783c7f57</sys_scope>
+        <sys_update_name>sys_index_x_testd_s_parent_col_par</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-09-18 21:41:52</sys_updated_on>
+        <table display_value="parent" name="x_testd_s_parent">e06a1f14b4400010964fc2aa783c7f39</table>
+        <unique_index>true</unique_index>
+    </sys_index>
+</record_update>

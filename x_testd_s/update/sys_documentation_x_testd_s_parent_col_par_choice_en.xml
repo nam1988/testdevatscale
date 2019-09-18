@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="col_par_choice" label="Col par choice" language="en" table="x_testd_s_parent">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>col_par_choice</element>
+            <help/>
+            <hint/>
+            <label>Col par choice</label>
+            <language>en</language>
+            <name>x_testd_s_parent</name>
+            <plural>Col par choices</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 21:39:12</sys_created_on>
+            <sys_id>e33c5394b4400010964fc2aa783c7f4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Col par choice</sys_name>
+            <sys_package display_value="testd@s" source="x_testd_s">123a9b14b4400010964fc2aa783c7f57</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="testd@s">123a9b14b4400010964fc2aa783c7f57</sys_scope>
+            <sys_update_name>sys_documentation_x_testd_s_parent_col_par_choice_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 21:39:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

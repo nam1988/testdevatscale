@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_testd_s_parent" label="child" max_length="40" name="x_testd_s_child" type="collection">
+        <element label="Col ch" max_length="40" name="col_ch" type="string"/>
+        <element choice="1" label="Col choice" max_length="40" name="col_choice" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Test1" value="test1"/>
+                <element inactive_on_update="false" label="Test2" value="test2"/>
+                <element inactive_on_update="false" label="Test3" value="test3"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="col_ch"/>
+        </index>
+        <index name="index2">
+            <element name="col_choice"/>
+        </index>
+    </element>
+</database>
