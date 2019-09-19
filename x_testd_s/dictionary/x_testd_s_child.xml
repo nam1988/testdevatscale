@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="x_testd_s_parent" label="child" max_length="40" name="x_testd_s_child" type="collection">
+    <element extends="x_testd_s_parent" label="child" max_length="40" name="x_testd_s_child" type="collection" sys_mod_count="2">
         <element label="Col ch" max_length="40" name="col_ch" type="string"/>
         <element choice="1" label="Col choice" max_length="40" name="col_choice" type="choice">
             <choice>
