@@ -11,10 +11,10 @@
         </element>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <index name="index">
-            <element name="col_par"/>
+            <element name="col_par_choice"/>
         </index>
         <index name="index2">
-            <element name="col_par_choice"/>
+            <element name="col_par"/>
         </index>
         <index name="index3">
             <element name="sys_class_name"/>
