@@ -11,7 +11,6 @@
         </element>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element label="Sys Col New" max_length="40" name="sys_col_new" type="string"/>
-        <element label="Sys Col New1" max_length="40" name="sys_col_new1" type="string"/>
         <index name="index">
             <element name="col_par_choice"/>
         </index>
