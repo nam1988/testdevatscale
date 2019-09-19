@@ -10,13 +10,13 @@
             <name>x_testd_s_child</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 21:36:49</sys_created_on>
+            <sys_created_on>2019-09-19 02:36:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b1ab1f54b4400010964fc2aa783c7fa7</sys_id>
+            <sys_id>e330ac20b4440010964fc2aa783c7f42</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 21:36:49</sys_updated_on>
+            <sys_updated_on>2019-09-19 02:36:18</sys_updated_on>
             <value>test1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -29,13 +29,13 @@
             <name>x_testd_s_child</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 21:37:04</sys_created_on>
+            <sys_created_on>2019-09-19 02:36:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>36bb5f54b4400010964fc2aa783c7f04</sys_id>
+            <sys_id>2730ac20b4440010964fc2aa783c7f42</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 21:37:04</sys_updated_on>
+            <sys_updated_on>2019-09-19 02:36:18</sys_updated_on>
             <value>test2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -48,13 +48,13 @@
             <name>x_testd_s_child</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 21:37:19</sys_created_on>
+            <sys_created_on>2019-09-19 02:36:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8acb5f54b4400010964fc2aa783c7f5b</sys_id>
+            <sys_id>6730ac20b4440010964fc2aa783c7f42</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 21:37:19</sys_updated_on>
+            <sys_updated_on>2019-09-19 02:36:18</sys_updated_on>
             <value>test3</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -62,8 +62,8 @@
             <name>x_testd_s_child</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-18 21:36:49</sys_created_on>
-            <sys_id>f8bbdb54b4400010964fc2aa783c7f75</sys_id>
+            <sys_created_on>2019-09-19 02:36:18</sys_created_on>
+            <sys_id>6b30ac20b4440010964fc2aa783c7f42</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>col_choice</sys_name>
             <sys_package display_value="testd@s" source="x_testd_s">123a9b14b4400010964fc2aa783c7f57</sys_package>
@@ -71,7 +71,7 @@
             <sys_scope display_value="testd@s">123a9b14b4400010964fc2aa783c7f57</sys_scope>
             <sys_update_name>sys_choice_x_testd_s_child_col_choice</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-18 21:36:49</sys_updated_on>
+            <sys_updated_on>2019-09-19 02:36:18</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>
