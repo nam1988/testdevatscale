@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="parent" max_length="40" name="x_testd_s_parent" type="collection">
+    <element label="parent" max_length="40" name="x_testd_s_parent" type="collection" sys_id="xyz">
         <element attributes="edge_encryption_enabled=true" label="Col par" max_length="40" name="col_par" type="string"/>
         <element choice="1" label="Col par choice" max_length="40" name="col_par_choice" type="choice">
             <choice>
