@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="x_testd_s_parent" label="child" max_length="40" name="x_testd_s_child" type="collection" read_roles="admin">
         <element label="Col ch" max_length="40" name="col_ch" type="string" read_roles="admin" write_roles="admin/>
-        <element choice="1" label="Col choice" max_length="40" name="col_choice" type="choice" read_roles="admin">
+        <element choice="1" label="Col choice" max_length="40" name="col_choice" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Test1" value="test1"/>
                 <element inactive_on_update="false" label="Test2" value="test2"/>
